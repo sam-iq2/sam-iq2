@@ -8,35 +8,39 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:101114,50:1A1018,100:101114&text=SARMAD&fontColor=D90429&fontSize=65&fontAlignY=42&desc=ENGINEERING%20%2F%20CREATIVITY%20%2F%20SYSTEMS&descColor=40E0D0&descSize=13&descAlignY=68" />
+<img width="100%" alt="SARMAD" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:101114,50:1A1018,100:101114&text=SARMAD&fontColor=D90429&fontSize=68&fontAlignY=42&desc=ENGINEERING%20%2F%20CREATIVITY%20%2F%20SYSTEMS&descColor=40E0D0&descSize=13&descAlignY=68&animation=fadeIn" />
 
 <br/>
 
-**INDEPENDENT DEVELOPER**
+### INDEPENDENT DEVELOPER
 
 *Exploring technology. Understanding systems. Building ideas.*
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-sam--iq2-101114?style=flat-square&logo=github&logoColor=40E0D0)](https://github.com/sam-iq2)
-![Focus](https://img.shields.io/badge/FOCUS-SYSTEMS-D90429?style=flat-square)
-![Mindset](https://img.shields.io/badge/MINDSET-CREATIVE-40E0D0?style=flat-square&labelColor=101114)
+<a href="https://github.com/sam-iq2"><img height="38" alt="GitHub" src="https://img.shields.io/badge/GITHUB-sam--iq2-101114?style=for-the-badge&logo=github&logoColor=40E0D0" /></a>&nbsp;
+<img height="38" alt="Focus" src="https://img.shields.io/badge/FOCUS-SYSTEMS-D90429?style=for-the-badge" />&nbsp;
+<img height="38" alt="Mindset" src="https://img.shields.io/badge/MINDSET-CREATIVE-40E0D0?style=for-the-badge&labelColor=101114" />
+
+<br/><br/>
+
+[ABOUT](#01--about) &nbsp;·&nbsp; [EXPLORATION](#02--areas-of-exploration) &nbsp;·&nbsp; [STACK](#03--technology-stack) &nbsp;·&nbsp; [DIRECTION](#04--current-direction) &nbsp;·&nbsp; [PRINCIPLES](#05--principles)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D90429,50:40E0D0,100:D90429" width="100%" alt=""/>
 
-## 1- ABOUT
+## 01 / ABOUT
 
-I'm an independent developer interested in the architecture behind software, the logic of systems, and the intersection of technology and creativity.
+I'm an **independent developer** interested in the architecture behind software, the logic of systems, and the intersection of technology and creativity.
 
-I believe in understanding the fundamentals before building on top of them.
+I believe in **understanding the fundamentals** before building on top of them.
 
-Currently learning, experimenting, and developing projects with a focus on clarity, reliability, and thoughtful design.
+Currently learning, experimenting, and developing projects with a focus on **clarity, reliability, and thoughtful design**.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D90429,50:40E0D0,100:D90429" width="100%" alt=""/>
 
-## 2- AREAS OF EXPLORATION
+## 02 / AREAS OF EXPLORATION
 
 | FIELD | INTEREST |
 |:--|:--|
@@ -46,62 +50,62 @@ Currently learning, experimenting, and developing projects with a focus on clari
 | **Open Source** | Linux, Git, collaborative development |
 | **Creative Technology** | Digital art, design, AI-assisted workflows |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D90429,50:40E0D0,100:D90429" width="100%" alt=""/>
 
-## 3- TECHNOLOGY STACK
+## 03 / TECHNOLOGY STACK
 
 <div align="center">
 
-**LANGUAGES & DATA**
-
 <br/>
 
-![Rust](https://img.shields.io/badge/RUST-101114?style=for-the-badge&logo=rust&logoColor=D90429)
-![SQL](https://img.shields.io/badge/SQL-101114?style=for-the-badge&logo=postgresql&logoColor=40E0D0)
+<img src="assets/icons/rust.svg" width="120" height="120" alt="Rust" />&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/postgresql.svg" width="120" height="120" alt="SQL / PostgreSQL" />
+&emsp;&emsp;&emsp;
+<img src="assets/icons/linux.svg" width="120" height="120" alt="Linux" />&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/git.svg" width="120" height="120" alt="Git" />&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/github.svg" width="120" height="120" alt="GitHub" />
 
 <br/><br/>
 
-**TOOLS & ENVIRONMENT**
-
-<br/>
-
-![Linux](https://img.shields.io/badge/LINUX-101114?style=for-the-badge&logo=linux&logoColor=40E0D0)
-![Git](https://img.shields.io/badge/GIT-101114?style=for-the-badge&logo=git&logoColor=D90429)
-![GitHub](https://img.shields.io/badge/GITHUB-101114?style=for-the-badge&logo=github&logoColor=40E0D0)
-
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D90429,50:40E0D0,100:D90429" width="100%" alt=""/>
 
-## 4- CURRENT DIRECTION
+## 04 / CURRENT DIRECTION
 
 ```text
-[ LEARN ]  →  Understand the fundamentals
-[ DESIGN ] →  Think about the architecture
-[ BUILD ]  →  Turn concepts into working software
-[ REFINE ] →  Improve, simplify, and optimize
+ 01  LEARN    ──►  Understand the fundamentals
+ 02  DESIGN   ──►  Think about the architecture
+ 03  BUILD    ──►  Turn concepts into working software
+ 04  REFINE   ──►  Improve, simplify, and optimize
+
+              ↺   repeat
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D90429,50:40E0D0,100:D90429" width="100%" alt=""/>
 
-## 5- PRINCIPLES
+## 05 / PRINCIPLES
 
 <div align="center">
 
-### THINK DEEPLY.
-### BUILD INTENTIONALLY.
-### NEVER STOP EXPLORING.
+<br/>
+
+<h3>
+THINK DEEPLY.<br/>
+BUILD INTENTIONALLY.<br/>
+NEVER STOP EXPLORING.
+</h3>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:D90429,50:40E0D0,100:D90429" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:D90429,50:40E0D0,100:D90429" width="100%" alt=""/>
 
 <br/>
 
-<sub>INDEPENDENTLY LEARNING · CONSTANTLY EVOLVING</sub>
+<sub>INDEPENDENTLY LEARNING &nbsp;·&nbsp; CONSTANTLY EVOLVING</sub>
 
-<br/>
+<br/><br/>
 
-**SARMAD** / `sam-iq2`
+**SARMAD** &nbsp;/&nbsp; `sam-iq2`
 
 </div>
