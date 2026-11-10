@@ -30,7 +30,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D90429,50:40E0D0,100:D90429" width="100%" alt=""/>
 
-## 01 / ABOUT
+## 1- ABOUT
 
 I'm an **independent developer** interested in the architecture behind software, the logic of systems, and the intersection of technology and creativity.
 
@@ -40,7 +40,7 @@ Currently learning, experimenting, and developing projects with a focus on **cla
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D90429,50:40E0D0,100:D90429" width="100%" alt=""/>
 
-## 02 / AREAS OF EXPLORATION
+## 2- AREAS OF EXPLORATION
 
 | FIELD | INTEREST |
 |:--|:--|
@@ -52,7 +52,7 @@ Currently learning, experimenting, and developing projects with a focus on **cla
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D90429,50:40E0D0,100:D90429" width="100%" alt=""/>
 
-## 03 / TECHNOLOGY STACK
+## 3- TECHNOLOGY STACK
 
 <div align="center">
 
@@ -71,7 +71,7 @@ Currently learning, experimenting, and developing projects with a focus on **cla
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D90429,50:40E0D0,100:D90429" width="100%" alt=""/>
 
-## 04 / CURRENT DIRECTION
+## 4- CURRENT DIRECTION
 
 ```text
  01  LEARN    ──►  Understand the fundamentals
@@ -79,12 +79,11 @@ Currently learning, experimenting, and developing projects with a focus on **cla
  03  BUILD    ──►  Turn concepts into working software
  04  REFINE   ──►  Improve, simplify, and optimize
 
-              ↺   repeat
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D90429,50:40E0D0,100:D90429" width="100%" alt=""/>
 
-## 05 / PRINCIPLES
+## 5- PRINCIPLES
 
 <div align="center">
 
