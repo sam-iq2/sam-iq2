@@ -6,7 +6,7 @@
 
 <br/>
 
-**INDEPENDENT DEVELOPER · CREATIVE THINKER**
+**INDEPENDENT DEVELOPER**
 
 *Exploring technology. Understanding systems. Building ideas.*
 
