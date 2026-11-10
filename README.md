@@ -1,4 +1,10 @@
-# SARMAD
+<div align="center">
+  <img
+    src="assets/baghdad-banner.png"
+    width="100%"
+    alt="Baghdad — SARMAD"
+  />
+</div>
 
 <div align="center">
 
@@ -20,7 +26,7 @@
 
 ---
 
-## 01 / ABOUT
+## 1- ABOUT
 
 I'm an independent developer interested in the architecture behind software, the logic of systems, and the intersection of technology and creativity.
 
@@ -30,7 +36,7 @@ Currently learning, experimenting, and developing projects with a focus on clari
 
 ---
 
-## 02 / AREAS OF EXPLORATION
+## 2- AREAS OF EXPLORATION
 
 | FIELD | INTEREST |
 |:--|:--|
@@ -42,7 +48,7 @@ Currently learning, experimenting, and developing projects with a focus on clari
 
 ---
 
-## 03 / TECHNOLOGY STACK
+## 3- TECHNOLOGY STACK
 
 <div align="center">
 
@@ -67,7 +73,7 @@ Currently learning, experimenting, and developing projects with a focus on clari
 
 ---
 
-## 04 / CURRENT DIRECTION
+## 4- CURRENT DIRECTION
 
 ```text
 [ LEARN ]  →  Understand the fundamentals
@@ -78,7 +84,7 @@ Currently learning, experimenting, and developing projects with a focus on clari
 
 ---
 
-## 05 / PRINCIPLES
+## 5- PRINCIPLES
 
 <div align="center">
 
